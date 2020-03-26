@@ -26,3 +26,4 @@ else:
 if b != None:
     x, y = pyautogui.locateCenterOnScreen("clse.png")
     pyautogui.click(x, y)
+
