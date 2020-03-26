@@ -14,6 +14,8 @@ if a != None:
     x, y = pyautogui.locateCenterOnScreen("File.png")
     pyautogui.doubleClick(x, y)
 
+sleep(10)
+
 b = pyautogui.locateCenterOnScreen("clse.png")
 
 if b == None:
