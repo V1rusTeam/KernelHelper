@@ -7,3 +7,4 @@
 3. python3 TestesForScript.py и сверни терминал (Потом кинь скрин)
 4. python3 TestsWrite.py и открой текстовый редактор(Тоже скрин)
 5. Если все ОК, python3 kern.py
+<a href="#">asd</a>
