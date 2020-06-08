@@ -1,5 +1,4 @@
 import os
-import pyautogui
 from time import sleep
 
 
